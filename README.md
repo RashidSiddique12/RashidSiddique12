@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm a Full-Stack Developer
 
-<!--
-**RashidSiddique12/RashidSiddique12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | 2+ Years Experience**
 
-Here are some ideas to get you started:
+⚛️ **Frontend:**  
+React | Redux | JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 **Backend:**  
+Node.js | Express | NestJS  
+
+🗄️ **Databases:**  
+MongoDB | PostgreSQL | SQL  
+
+📱 **Currently Learning:**  
+Flutter & DevOps  
+
+🧠 **Core Interests:**  
+DSA | System Design  
+
+🚀 **Goal:**  
+Building efficient, scalable, and user-friendly applications
