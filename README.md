@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rashid Siddique
 
-💻 **Full-Stack Developer | 2+ Years Experience**  
+💻 **Full-Stack Developer | 3 Years Experience**  
 🚀 Passionate about building scalable and user-friendly web applications  
 🧠 Strong interest in **Data Structures & Algorithms** and **System Design**  
 📱 Currently exploring **Flutter** and backend architecture  
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💻 Software Developer with **2+ years of experience**
+- 💻 Software Developer with **3 years of experience**
 - ⚛️ Experienced in building modern UI using **React.js & AngularJS**
 - 🧩 Skilled in backend development using **Node.js & Express.js**
 - 🗄️ Hands-on experience with **PostgreSQL, MongoDB, and MySQL**
